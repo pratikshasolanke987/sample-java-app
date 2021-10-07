@@ -1,4 +1,4 @@
-package io.buildpacks.example.sample;
+package io.buildpacks.example.sample;;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
